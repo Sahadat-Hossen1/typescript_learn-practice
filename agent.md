@@ -39,3 +39,4 @@ Started: [06/06/2026]
 - After finishing a topic, ask me: "Ready for a quiz?"
 - Suggest what to learn next after each topic
 - Keep code examples small and focused — no giant files
+-always update readme.md file
