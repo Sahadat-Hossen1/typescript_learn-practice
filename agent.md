@@ -21,14 +21,14 @@
 
 ## My Learning Path (Current Phase)
 - [x] Phase 1: Basics (types, annotations, inference)
-- [ ] Phase 2: Foundation (interface, union, functions)
+- [x] Phase 2: Foundation (interface, union, functions)
 - [ ] Phase 3: Intermediate (generics, classes, utility types)
 - [ ] Phase 4: Advanced (conditional types, decorators)
 - [ ] Phase 5: Production (Next.js + TS, API, testing)
 
 ## Current Topic I'm Studying
 <!-- Update this every time you start a new topic -->
-Topic: TypeScript Foundation (interface, union, functions)
+Topic: TypeScript Intermediate (generics, classes, utility types)
 Started: [06/06/2026]
 
 
