@@ -1,0 +1,90 @@
+এখানে Basic থেকে Production Level পর্যন্ত সম্পূর্ণ রোডম্যাপ দেওয়া হলো:
+
+🟢 ধাপ ১ — একদম শুরু (Total Beginner)
+
+"TypeScript কী এবং কেন শিখব? একদম সহজ ভাষায় বোঝাও"
+"TypeScript ইন্সটল করা থেকে প্রথম কোড রান করা পর্যন্ত হাতে ধরে শেখাও"
+"string, number, boolean, array, tuple, any — সব type উদাহরণ দিয়ে শেখাও"
+"Type annotation কী এবং কোথায় লিখতে হয়?"
+
+
+🟡 ধাপ ২ — ভিত্তি তৈরি (Foundation)
+
+"Interface আর Type alias কী — কখন কোনটা ব্যবহার করব?"
+"Union type, optional type, আর default value কীভাবে কাজ করে?"
+"TypeScript-এ function কীভাবে লেখে — সব ধরনের উদাহরণ দাও"
+"Enum কী এবং কখন ব্যবহার করব?"
+"Array আর Object কীভাবে type করে TypeScript-এ?"
+
+
+🔵 ধাপ ৩ — মধ্যম স্তর (Intermediate)
+
+"Generics কী — বাস্তব উদাহরণ দিয়ে বোঝাও"
+"TypeScript-এ Class, constructor, inheritance, access modifier শেখাও"
+"Type guard আর type narrowing কীভাবে কাজ করে?"
+"Utility types — Partial, Pick, Omit, Record, Readonly উদাহরণসহ শেখাও"
+"Async/await আর Promise TypeScript-এ কীভাবে type করে?"
+"tsconfig.json-এর গুরুত্বপূর্ণ সেটিংস কী কী এবং কেন দরকার?"
+
+
+🟠 ধাপ ৪ — অ্যাডভান্সড (Advanced)
+
+"Conditional type আর mapped type কী — কখন ব্যবহার করব?"
+"Decorators কী এবং কীভাবে কাজ করে TypeScript-এ?"
+"Module system — import/export TypeScript-এ কীভাবে কাজ করে?"
+"Declaration file (.d.ts) কী এবং কখন বানাতে হয়?"
+"Third-party library-তে @types কীভাবে ব্যবহার করব?"
+"Namespace আর Module-এর পার্থক্য কী?"
+
+
+🔴 ধাপ ৫ — প্রফেশনাল স্তর (Production-Ready)
+✅ Project Structure
+
+"Production-level TypeScript project-এর folder structure কেমন হওয়া উচিত?"
+"TypeScript-এ clean architecture কীভাবে ফলো করব?"
+
+✅ React + TypeScript
+
+"React-এ TypeScript কীভাবে ব্যবহার করে — props, state, hooks সব type করা শেখাও"
+"React component-এ generic props কীভাবে লেখে?"
+"Custom hook TypeScript-এ কীভাবে বানাই?"
+
+✅ Node.js + TypeScript
+
+"Node.js + Express-এ TypeScript সেটআপ করা শেখাও"
+"REST API TypeScript দিয়ে কীভাবে বানাই — সম্পূর্ণ উদাহরণ দাও"
+"TypeScript-এ Database (Prisma/TypeORM) কীভাবে ব্যবহার করে?"
+
+✅ Error Handling
+
+"Production-level TypeScript-এ error handling কীভাবে করে?"
+"Custom error class TypeScript-এ কীভাবে বানাই?"
+
+✅ Testing
+
+"TypeScript-এ unit test কীভাবে লেখে — Jest দিয়ে শেখাও"
+"Mock আর type-safe test কীভাবে করে?"
+
+✅ Performance & Best Practices
+
+"TypeScript-এ কোন কোন bad practice এড়িয়ে চলতে হবে?"
+"Production build-এর জন্য TypeScript কীভাবে optimize করে?"
+"ESLint + TypeScript একসাথে কীভাবে সেটআপ করে?"
+
+✅ Real Project
+
+"TypeScript দিয়ে একটা সম্পূর্ণ Todo App বানাতে সাহায্য করো — basic থেকে production পর্যন্ত"
+"আমার এই কোড কি production-ready? কী কী উন্নত করতে হবে?"
+
+
+📅 সময়ের হিসাব
+ধাপসময়ধাপ ১ — Beginner১ সপ্তাহধাপ ২ — Foundation২ সপ্তাহধাপ ৩ — Intermediate৩ সপ্তাহধাপ ৪ — Advanced৩ সপ্তাহধাপ ৫ — Production৪+ সপ্তাহ
+
+💡 সবচেয়ে গুরুত্বপূর্ণ টিপস
+
+প্রতিটা টপিক শেখার পর বলুন "এখন আমাকে দিয়ে একটা প্রজেক্ট বানাও এই টপিক দিয়ে"
+ভুল হলে বলুন "কোথায় ভুল হয়েছে এবং কেন?"
+সবসময় জিজ্ঞেস করুন "এটা কি real production-এ এভাবেই লেখে?"
+শেষে বলুন "এই পুরো টপিকের একটা cheat sheet বানিয়ে দাও"
+
+এই রোডম্যাপ ফলো করলে আপনি ৩-৪ মাসে একজন প্রফেশনাল TypeScript ডেভেলপার হতে পারবেন! 🚀You said: should i create agent.

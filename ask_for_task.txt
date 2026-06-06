@@ -1,0 +1,70 @@
+প্রতিটা ধাপে AI-কে এভাবে জিজ্ঞেস করুন:
+
+🟢 ধাপ ১ — Beginner Practice
+প্রতিটা topic শেখার পর বলুন:
+"আমি এইমাত্র [topic] শিখলাম।
+এখন আমাকে ৩টা ছোট exercise দাও —
+১টা easy, ১টা medium, ১টা tricky।
+আমি সমাধান করব, তুমি পরে check করো।"
+উদাহরণ tasks যা পাবেন:
+
+একটা User object বানাও সব type দিয়ে
+একটা function লেখো যেটা number নেয় এবং string return করে
+Array of objects type করো
+
+
+🟡 ধাপ ২ — Foundation Practice
+"Interface আর Type alias শিখেছি।
+আমার ecommerce project-এর জন্য
+Product, Cart, Order — এই ৩টার
+interface বানাতে সাহায্য করো।
+আমি নিজে লিখব, তুমি review করো।"
+উদাহরণ tasks:
+
+Product interface বানাও (name, price, stock, category)
+Union type দিয়ে order status বানাও
+Optional fields সহ User type লেখো
+
+
+🔵 ধাপ ৩ — Intermediate Practice
+"Generics শিখেছি।
+আমাকে একটা real-world problem দাও
+যেটা generics ছাড়া solve করা কঠিন।
+আমি solve করার চেষ্টা করব।"
+উদাহরণ tasks:
+
+Generic ApiResponse<T> type বানাও
+Utility types দিয়ে Product থেকে CreateProduct বানাও
+Async function type করো যেটা product fetch করে
+
+
+🟠 ধাপ ৪ — Advanced Practice
+"Conditional type শিখেছি।
+আমার Next.js project-এ কোথায়
+এটা ব্যবহার করতে পারি — 
+বাস্তব উদাহরণ দাও এবং
+আমাকে দিয়ে লেখাও।"
+
+🔴 ধাপ ৫ — Production Practice
+এখানে mini project বানাবেন। বলুন:
+"আমার ecommerce project-এর জন্য
+TypeScript দিয়ে একটা complete
+Product module বানাতে চাই।
+
+এতে থাকবে:
+- Types/Interfaces
+- API fetch function
+- Error handling
+- Zod validation
+
+প্রতিটা অংশ আমাকে দিয়ে লেখাও,
+নিজে লিখে দিও না।"
+
+📋 সবচেয়ে কার্যকর Practice Formula
+প্রতিটা topic-এ এই ৫টা ধাপ ফলো করুন:
+১. "বিষয়টা বোঝাও" → বুঝুন
+২. "একটা example দেখাও" → দেখুন
+③. "এখন আমাকে exercise দাও" → নিজে করুন
+④. "আমার কোড review করো" → ভুল শুধরান
+⑤. "এখন আমার ecommerce project-এ
+    এটা কোথায় ব্যবহার করব?" → apply করুন
