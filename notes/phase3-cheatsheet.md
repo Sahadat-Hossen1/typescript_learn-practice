@@ -70,3 +70,4 @@ const p1 = new Player("Sahadat", 100);
 1. Review this cheat sheet.
 2. Complete the `intermediate.ts` exercise given in the chat.
 3. Send the completed code for review!
+flsdfjl
